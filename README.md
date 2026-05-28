@@ -1,4 +1,4 @@
-# NovaCart Ecommerce App
+# kdame gebya Ecommerce App
 
 Full-stack ecommerce app with a React + Tailwind frontend, a Python FastAPI backend, demo card payments, admin product management, and MongoDB persistence for products and orders.
 
