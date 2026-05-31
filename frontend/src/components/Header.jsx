@@ -26,7 +26,7 @@ function Header({
           onClick={() => setPage('shop')}
         >
           <Store size={27} />
-          NovaCart
+        kdame gebya
         </button>
         <label className="order-last flex h-11 min-w-64 flex-1 overflow-hidden rounded bg-white text-slate-950 md:order-none">
           <input
