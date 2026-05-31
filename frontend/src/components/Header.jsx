@@ -36,7 +36,7 @@ function Header({
             onChange={(event) => setQuery(event.target.value)}
           />
           <span className="grid w-12 place-items-center bg-amber-400">
-            <Search size={20} />
+            <Search size={22} />
           </span>
         </label>
         <NavButton
